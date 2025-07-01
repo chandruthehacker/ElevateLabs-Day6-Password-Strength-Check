@@ -3,6 +3,8 @@
 This is a simple and interactive **Password Strength Checker** built with HTML, CSS, and JavaScript. It evaluates the strength of a password in real-time and provides visual and textual feedback to help users create strong, secure passwords.
 
 ---
+### 🔗 Weblink: [Live Website](https://chandruthehacker.github.io/password-strength-checker)
+---
 
 ## 🌟 Features
 
