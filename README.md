@@ -17,7 +17,7 @@ This is a simple and interactive **Password Strength Checker** built with HTML, 
 
 ## 📸 Demo
 
-![Password Checker Demo](assets/screenshot.png)
+![Password Checker Demo](assets/demo-screenshot.png)
 
 > 📌 *Add a screenshot of your project in the repo and name it `demo-screenshot.png`.*
 
