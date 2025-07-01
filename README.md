@@ -100,7 +100,7 @@ The score determines:
 
 - [LinkedIn](https://www.linkedin.com/in/chandraprakash87/)
 - [GitHub](https://github.com/chandruthehacker)
-- [Telegram](https://t.me/cyberchandru)
+- [Telegram](https://t.me/chandruthehacker)
 - [Instagram](https://www.instagram.com/dgl_chandru)
 - [Facebook](https://www.facebook.com/chandru87125)
 
