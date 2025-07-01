@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Password Strength Checker</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="password-checker"></div>
+    <div class="card">
+      <h2>Password Strength Checker</h2>
+
+      <input
+        type="text"
+        id="pwd"
+        placeholder="Enter a password"
+        autocomplete="off"
+      />
+
+      <div id="bar"><div id="meter"></div></div>
+      <p id="msg"></p>
+      <div class="copy-container" id="copy">
+        <button class="copy-btn" onclick="copyToClipboard(this)">
+          Copy Password
+          <i class="bx bx-copy-alt"></i>
+        </button>
+      </div>
+      <ul id="checklist">
+        <li id="length">❌ Minimum 8 characters</li>
+        <li id="upper">❌ At least one uppercase letter (A-Z)</li>
+        <li id="lower">❌ At least one lowercase letter (a-z)</li>
+        <li id="number">❌ At least one number (0-9)</li>
+        <li id="special">❌ At least one special character (!@#$%^&*)</li>
+      </ul>
+    </div>
+
+    <div id="bottom">
+
+      <div class="social-media">
+      <a
+        href="https://www.linkedin.com/in/chandraprakash87/"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><i class="bx bxl-linkedin-square"></i
+      ></a>
+      <a
+        href="https://github.com/chandruthehacker"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><i class="bx bxl-github"></i
+      ></a>
+      <a
+        href="https://t.me/chandruthehacker"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><i class="bx bxl-telegram"></i
+      ></a>
+      <a
+        href="https://www.instagram.com/chandru_the_hacker"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><i class="bx bxl-instagram-alt"></i
+      ></a>
+      <a
+        href="https://www.facebook.com/chandru87125"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><i class="bx bxl-facebook"></i
+      ></a>
+    </div>
+    <p id="me"><a href="https://chandruthehacker.github.io/" class="name">chandruthehacker</a></p>
+    </div>
+    
+  </body>
+</html>
